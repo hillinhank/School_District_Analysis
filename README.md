@@ -21,3 +21,4 @@ o	Scores by school type – Again, no significant changes are seen in this data.
 •	The number of students enrolled is important due to the teacher to student ratio
 •	There is a proportional correlation between school size and spending money on students because having a large school and a high spending rate means the students overall score is approximately 60%. Smaller schools tend to spend less per student this does however result in higher scores overall.
 .
+.
